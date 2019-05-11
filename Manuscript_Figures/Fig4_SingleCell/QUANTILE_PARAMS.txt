@@ -1,0 +1,2 @@
+# minJinv(Pa)	maxJinv(Pa)	miniTheta(deg)	maxiTheta(deg)	DataPath
+265610244.954	2673508054.27	12.1299	54.644	E:/Github/Biofilm_TimeFreq_MechProperties/Manuscript_Figures/RawData_Figures/SingleCell

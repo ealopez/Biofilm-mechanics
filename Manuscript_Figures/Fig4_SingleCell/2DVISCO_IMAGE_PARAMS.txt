@@ -1,0 +1,2 @@
+# minTopo(nm)	maxTopo(nm)	ApVel(ums-1)	Tmin(s)	Tmax(s)	DataPath
+85.54	172.2318	1.0329	0.000249853515625	0.0129152832031	E:/DATA/181123/Multi75EG/500nm
